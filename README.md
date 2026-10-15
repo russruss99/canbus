@@ -1,4 +1,4 @@
-# instrument
+# README
 # Bare-Metal Automotive bxCAN Bus Network Logger
 
 A low-level, high-reliability device driver implemented from scratch on the **ARM Cortex-M4 (STM32F407VG)** architecture. This project configures the microcontroller's internal **bxCAN (Basic Extended CAN)** peripheral via direct register manipulation to establish a self-testing, hardware-filtered automotive communication node operating at **125 Kbps**—completely bypassing all vendor Hardware Abstraction Layers (HAL).
